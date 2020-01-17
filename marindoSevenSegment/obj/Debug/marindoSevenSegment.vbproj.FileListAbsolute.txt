@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\bin\Debug\marindoSevenSegment.exe.config
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\bin\Debug\marindoSevenSegment.exe
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\bin\Debug\marindoSevenSegment.pdb
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\bin\Debug\marindoSevenSegment.xml
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.marindoSevenSegment.resources
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.Resources.resources
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.exe
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.xml
+C:\Users\acer\Desktop\marindoSevenSegment\marindoSevenSegment\obj\Debug\marindoSevenSegment.pdb
